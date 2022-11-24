@@ -7,3 +7,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+- [x] Start programming course
+- [x] Begin day 1
+- [ ] Complete course
+
